@@ -1,6 +1,6 @@
 # Input name
 
-name = input("What's your name? ").title().string()
+name = input("What's your name? ").title()
 
 # Print output 
 
